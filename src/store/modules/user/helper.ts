@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       name: 'GanFanRen',
-      description: 'Star on <a href="https://github.com/qq821181867/ChatGPT-Web" class="text-blue-500" target="_blank" >GitHub</a>',
+      description: '详情：设置-关于',
     },
   }
 }
