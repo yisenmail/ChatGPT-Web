@@ -54,7 +54,7 @@ export default {
     setting: 'Настройки',
     general: 'Общее',
     advanced: 'Дополнительно',
-    config: 'Конфигурация',
+    config: 'о',
     avatarLink: 'Ссылка на аватар',
     name: 'Имя',
     description: 'Описание',
